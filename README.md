@@ -1,3 +1,10 @@
+### 🤖 AI & ML Stack:
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-blue)
+![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
+![Python](https://img.shields.io/badge/Python-3.x-green)
+![LangChain](https://img.shields.io/badge/LangChain-LLM-yellow)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-red)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
